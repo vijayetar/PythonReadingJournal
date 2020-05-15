@@ -6,3 +6,4 @@
 * [Syntax and Exception errors](class03/Errors.md)
 * [Pytest Fixtures and Coverage](class04/pytest_fixtures.md)
 * [Classes And Objects](class04/classes_and_objects.md)
+* [Linked Lists](class05/linked_lists.md)
