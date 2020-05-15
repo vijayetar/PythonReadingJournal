@@ -5,7 +5,7 @@
 
 * Almost everything in Python is an object, with its properties and methods.
 
-* A Class is like an object constructor, or a "blueprint" for creating objects.
+* A Class is like an object constructor, or a "blueprint" for creating objects. When you create a class it is created automatically to help construct an instance.
 
 * Create Class  
 > class MyClass:  
@@ -37,4 +37,4 @@ p1.myfunc()
 
  * Delete:  
  > del p1  
- 
+
