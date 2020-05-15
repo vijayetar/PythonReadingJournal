@@ -14,7 +14,11 @@ __Current__ - The Current reference is a reference type of type Node that is cur
 [Reference](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
 
 -----
+## Features
+* The fundamental difference between arrays and linked lists is that arrays are static data structures, while linked lists are dynamic data structures.  
 
+* A static data structure needs all of its resources to be allocated when the structure is created. Always needs a given size and amount of memory.  
+* A dynamic data structure can shrink and grow in memory. It doesn’t need a set amount of memory to be allocated in order to exist, and its size and shape can change, and the amount of memory it needs can change as well.  
 ## Insertions  
 * Factor in the BigO when thinking about this. 
 * When inserting at the head, the new node has to link to the current node and then the head will link to it. Since it is indepedent of the size of the linked lists, the tiem and space factor is O(1)
