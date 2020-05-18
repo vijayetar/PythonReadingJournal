@@ -7,3 +7,5 @@
 * [Pytest Fixtures and Coverage](class04/pytest_fixtures.md)
 * [Classes And Objects](class04/classes_and_objects.md)
 * [Linked Lists](class05/linked_lists.md)
+* [Dependency Injection](class06/dependency_injection.md)
+* [Random generator](class06/random.md)

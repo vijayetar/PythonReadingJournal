@@ -1,6 +1,6 @@
 # Linked Lists
 
-
+[Home](../README.md)  
 ## Terminology: 
 __Linked List__ -   
 A data structure that contains nodes that links/points to the next node in the list.  

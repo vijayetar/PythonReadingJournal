@@ -1,4 +1,5 @@
-# Generate Random Numbers 
+# Generate Random Numbers
+[Home](../README.md) 
 ### [Random docs](https://docs.python.org/3/library/random.html) 
 * Import Random
 * random() --> is the key word. it generates random float number between 0.0 and 1.0.  

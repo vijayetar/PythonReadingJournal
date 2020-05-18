@@ -1,4 +1,5 @@
-# Read and Write Files
+# Read and Write Files  
+[Home](../README.md)  
 [Bookmark](https://realpython.com/read-write-files-python/)
 
 A file is a contiguous set of bytes used to store data.  n

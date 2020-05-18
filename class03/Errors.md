@@ -1,4 +1,5 @@
 # Syntax and Exception Errors
+[Home](../README.md)  
 ## Exceptions versus Syntax Errors
 * __Syntax errors__ occur when the parser detects an incorrect statement.  
 * __Exception error__ occurs whenever syntactically correct Python code results in an error. The last line of the message indicated what type of exception error you ran into. 

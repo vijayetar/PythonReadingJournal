@@ -1,4 +1,5 @@
 # Big O Notation
+[Home](../README.md)  
 [link](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)  
 * It is just about understanding to what degree is your program complicated and complex, because it automatically makes the run time much longer.
 * O(1): executes the program in the same time irrespective of the size of the input data.  
