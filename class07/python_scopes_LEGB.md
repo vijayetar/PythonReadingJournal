@@ -1,5 +1,6 @@
 # Python Scopes and LEGB  
-[Home](../README.md)
+[Home](../README.md)  
+[Reference](https://realpython.com/python-scope-legb-rule/)  
 ### Python Scopes  
 * *hat scopes are and how they work in Python  
 * Why it’s important to know about Python scope  
@@ -33,17 +34,36 @@ __Global (or module) scope__ is the top-most scope in a Python program, script, 
 
 * > When you call dir() with no arguments, you get the list of names available in your main global Python scope.  
 
+> * Inside inner_func(): This is the local scope, but number doesn’t exist there.  
+ > * Inside outer_func(): This is the enclosing scope, but number isn’t defined there either.  
+> * In the module scope: This is the global scope, and you find number there, so you can print number to the screen.  
+> * If number isn’t defined inside the global scope, then Python continues the search by looking at the built-in scope. 
+
 
 __Built-in scope__ is a special Python scope that’s created or loaded whenever you run a script or open an interactive session. This scope contains names such as keywords, functions, exceptions, and other attributes that are built into Python.  
 * Notice that the names in builtins are always loaded into your global Python scope with the special name __builtins__, as you can see in the following code:  
 > >>> len(dir(__builtins__))
 152  
 
+*  Accidentally or inadvertently overriding or redefining built-in names in your global scope can be a source of dangerous and hard-to-find bugs. It’s better to try and avoid this kind of practice.  
 
-> * Inside inner_func(): This is the local scope, but number doesn’t exist there.  
- > * Inside outer_func(): This is the enclosing scope, but number isn’t defined there either.  
-> * In the module scope: This is the global scope, and you find number there, so you can print number to the screen.  
-> * If number isn’t defined inside the global scope, then Python continues the search by looking at the built-in scope.  
+## Modifying Behavior of Python Scope  
+* Unlike global, you can’t use nonlocal outside of a nested or enclosed function. To be more precise, you can’t use a nonlocal statement in either the global scope or in a local scope.  
+
+## Unusual Python Scopes  
+
+You’ll find some Python structures where name resolution seems not to fit into the LEGB rule for Python scopes. These structures include:
+
+> Comprehensions  
+* A comprehension is a compact way to process all or part of the elements in a collection or sequence. You can use comprehensions to create lists, dictionaries, and sets.  
+
+> Exception blocks  
+* The exception variable is a variable that holds a reference to the exception raised by a try statement. In Python 3.x, such variables are local to the except block and are forgotten when the block ends  
+
+> Classes and instances  
+* Unlike functions, the class local scope isn’t created at call time, but at execution time. Each class object has its own .__dict__ attribute that holds the class scope or namespace where all the class attributes live.   
+
+
 
 
 
