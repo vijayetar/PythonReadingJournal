@@ -10,3 +10,4 @@
 * [Dependency Injection](class06/dependency_injection.md)
 * [Random generator](class06/random.md)
 * [Python Scope and LEGB](class07/python_scopes_LEGB.md)
+* [List Comprehensions](class08/listcomprehensions.md)
