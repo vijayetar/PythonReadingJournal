@@ -11,3 +11,4 @@
 * [Random generator](class06/random.md)
 * [Python Scope and LEGB](class07/python_scopes_LEGB.md)
 * [List Comprehensions](class08/listcomprehensions.md)
+* [Primer on Decorator](class08/primer_on_decorator.md)
