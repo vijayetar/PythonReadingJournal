@@ -13,3 +13,4 @@
 * [List Comprehensions](class08/listcomprehensions.md)
 * [Primer on Decorator](class08/primer_on_decorator.md)
 * [Statistics](class09/statistics.md)
+* [Stacks and Queues](class10/stacks_queues.md)
