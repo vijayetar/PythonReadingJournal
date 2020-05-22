@@ -1,6 +1,7 @@
 # Python Classes/Objects
 [Home](../README.md)  
-[Reference](https://www.w3schools.com/python/python_classes.asp)
+[Reference](https://www.w3schools.com/python/python_classes.asp)  
+[Learn about dunder methods](https://dbader.org/blog/python-dunder-methods)
 
 * Python is an object oriented programming language.
 
@@ -38,4 +39,5 @@ p1.myfunc()
 
  * Delete:  
  > del p1  
+
 
