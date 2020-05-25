@@ -14,3 +14,4 @@
 * [Primer on Decorator](class08/primer_on_decorator.md)
 * [Statistics](class09/statistics.md)
 * [Stacks and Queues](class10/stacks_queues.md)
+* [Data Science and NumPy](class11/data_science.md)
