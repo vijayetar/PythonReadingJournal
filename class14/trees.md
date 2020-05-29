@@ -3,6 +3,14 @@
 [Home](../README.md)  
 [Reference](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)  
 
+![image of a binary tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/tree-example.png)  
+
+
+>>Pre-order: A, B, D, E, C, F  
+In-order: D, B, E, A, F, C  
+Post-order: D, E, B, F, C, A
+
+
 ### __ALGORITHMS__
 ```
 ALGORITHM preOrder(root)
@@ -71,6 +79,9 @@ ALGORITHM breadthFirst(root)
 > A “perfect” binary tree is one where every non-leaf node has exactly two children. The maximum width for a perfect binary tree, is 2^(h-1), where h is the height of the tree. Height can be calculated as log n, where n is the number of nodes.  
 
 ### __BINARY SEARCH TREE__  
+
+![image of binary search tree](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree2.PNG)  
+
 A Binary Search Tree (BST) is a type of tree that does have some structure attached to it. In a BST, nodes are organized in a manner where all values that are smaller than the root are placed to the left, and all values that are larger than the root are placed to the right.   
 
 __Big O__  
