@@ -16,3 +16,5 @@
 * [Stacks and Queues](class10/stacks_queues.md)
 * [Data Science and NumPy](class11/data_science.md)  
 * [PANDAS](class12/pandas.md)
+* [Linear Regression](class13/linear_regression.md)
+* [Binary Trees](class14/trees.md)
