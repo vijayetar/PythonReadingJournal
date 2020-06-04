@@ -20,4 +20,6 @@
 * [Binary Trees](class14/trees.md)
 * [Data Visualization](class15/visual_data.md) 
 * [Web Scraping](class16/web_scraping.md)
-* [Cryptography](class17/cryptography.md)
+* [Cryptography](class17/cryptography.md)  
+* [Automation](class18/automation.md
+)
