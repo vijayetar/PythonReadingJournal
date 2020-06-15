@@ -22,4 +22,6 @@
 * [Web Scraping](class16/web_scraping.md)
 * [Cryptography](class17/cryptography.md)  
 * [Automation](class18/automation.md
-)
+)  
+* [Regex](class18/regex.md)
+* [Django Intro](class26/django_intro.md)
