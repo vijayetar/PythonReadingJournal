@@ -25,4 +25,5 @@
 )  
 * [Regex](class18/regex.md)
 * [Django Intro](class26/django_intro.md)
-* [Django Models](class27/django_models.md)
+* [Django Models](class27/django_models.md)  
+* [Django Forms](class28/django_forms.md)
