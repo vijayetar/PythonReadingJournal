@@ -4,6 +4,7 @@
 [Reference](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)  
 [Web Security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)   
 [Documentation](https://docs.djangoproject.com/en/3.0/)   
+[Views](https://ccbv.co.uk/)
 
 * __Django__ is a high-level Python web framework that enables rapid development of secure and maintainable websites.  
 
