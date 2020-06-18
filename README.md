@@ -27,3 +27,4 @@
 * [Django Intro](class26/django_intro.md)
 * [Django Models](class27/django_models.md)  
 * [Django Forms](class28/django_forms.md)
+* [Django User Models](class29/django_user_models.md)
