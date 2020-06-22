@@ -28,4 +28,6 @@
 * [Django Models](class27/django_models.md)  
 * [Django Forms](class28/django_forms.md)
 * [Django User Models](class29/django_user_models.md)  
+* [Django REST framework](class29/django_rest.md)
 * [HashTables](class30/hastables.md)
+* [Docker](class31/docker.md)
