@@ -1,7 +1,10 @@
 # Django REST framework
 [Home](../README.md)   
-[Reference](https://djangoforapis.com/library-website-and-api/)  
+[Reference](https://djangoforapis.com/library-website-and-api/)    
 [REST framework](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners) 
+  
+[REST generic views](https://www.django-rest-framework.org/api-guide/generic-views/)    
+[Classy Django](http://www.cdrf.co/)  
 
 1.  After installing django, and django models in a project and app, install django rest frame work
 ```
