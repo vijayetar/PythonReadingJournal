@@ -37,3 +37,5 @@
 * [DSA- Graphs](class35/dsa_graphs.md)  
 * [Programming interviews](class36/whiteboard.md)
 * [React](class37/react.md)
+* [NextJS](class39/nextjs.md)
+* [Sass](class39/sass.md)

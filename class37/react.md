@@ -10,3 +10,8 @@
 
 [understanding variables, scope and hoisting](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)  
 
+[React Router](https://reacttraining.com/react-router/web/guides/quick-start)  
+
+![basic router](../assets/basic_router.png)
+
+![nested router](../assets/nested_router.png)
