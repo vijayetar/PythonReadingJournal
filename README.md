@@ -39,3 +39,4 @@
 * [React](class37/react.md)
 * [NextJS](class39/nextjs.md)
 * [Sass](class39/sass.md)
+* [Websecurity](class40/websecurity.md)
