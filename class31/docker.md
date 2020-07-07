@@ -3,6 +3,7 @@
 
 [Reference](https://wsvincent.com/beginners-guide-to-docker/)  
 [Video](https://diveintodocker.com/ref-dfp)  
+[Docker on Heroku](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)  
 
 
 The important takeaways from this tutorial are this:

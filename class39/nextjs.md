@@ -4,6 +4,8 @@
 
 [NextJS](https://nextjs.org/learn/basics/create-nextjs-app)
 
+[Deployment from Vercel](https://nextjs.org/docs/deployment)
+
 Next.js: The React Framework
 Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.
 
