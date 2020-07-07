@@ -43,3 +43,4 @@
 * [Sass](class39/sass.md)
 * [Websecurity](class40/websecurity.md)
 * [ElephantSQL](class41/elephantsql.md)
+* [Generators](class42/generator.md)
