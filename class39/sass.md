@@ -23,3 +23,52 @@ In terminal:
 -npx create-next-app my_app-tailwind
 - choose with-tailwindcss
 - this will add postcss.config.js  and tailwind.config.js
+
+copy from the config files and the dev dependencies
+```
+CREATE /tailwind.config.js
+
+module.exports = {
+  purge: ['./components/**/*.{js,ts,jsx,tsx}', './pages/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {},
+  },
+  variants: {},
+  plugins: [],
+}
+```
+
+```
+ADD this to /package.json
+
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.4.0"
+  }
+```
+
+```
+CREATE /postcss.config.js
+
+module.exports = {
+  plugins: ['tailwindcss', 'postcss-preset-env'],
+}
+```
+
+grab everything from index.css related to the tailwind
+```
+IN TERMINAL
+npm i
+npm run dev
+```
+```
+ADD to the styles.scss
+
+at the bottom of the page:
+@tailwind utilities;
+```
+```
+at the top of the page
+@tailwind base;
+@tailwind components;
+```
